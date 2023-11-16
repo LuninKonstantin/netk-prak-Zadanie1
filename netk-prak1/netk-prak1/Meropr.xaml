@@ -1,0 +1,15 @@
+﻿<Page x:Class="netk_prak1.Meropr"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:netk_prak1"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Мероприятия">
+
+    <Grid Background="#FFF3F9B3">
+        <Button Content="Назад" HorizontalAlignment="Left" VerticalAlignment="Top" Click="BackButton_Click"/>
+        <Label Content="Мероприятия" HorizontalAlignment="Left" Margin="355,10,0,0" VerticalAlignment="Top"/>
+    </Grid>
+</Page>
