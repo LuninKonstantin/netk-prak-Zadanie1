@@ -10,8 +10,7 @@
     <Grid>
         <Grid>
             <Button Content="Назад" HorizontalAlignment="Left" VerticalAlignment="Top" Click="BackButton_Click"/>
-            <Label Content="Оценки" HorizontalAlignment="Left" Margin="355,10,0,0" VerticalAlignment="Top"/>
-            <!-- Content for student list -->
+         <Label Content="Оценки" HorizontalAlignment="Left" Margin="355,10,0,0" VerticalAlignment="Top"/>
         </Grid>
     </Grid>
 </Page>
